@@ -34,3 +34,9 @@ The dataset follows the ROCCC Analysis as described below:
 * Comprehensive - Not missing important information
 * Current - Updated monthly
 * Cited
+
+
+# PRiCING
+<img width="1282" alt="image" src="https://github.com/baotranc2000/Cylistic-Bike-Share/assets/135206055/6dfdc1e0-bb22-49f0-9f13-2e31a1561981">
+<img width="1225" alt="image" src="https://github.com/baotranc2000/Cylistic-Bike-Share/assets/135206055/c41d78b0-d15c-4111-be40-295ec4203c88">
+
