@@ -1,60 +1,12 @@
-{\rtf1\ansi\ansicpg1252\cocoartf2709
-\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
-{\colortbl;\red255\green255\blue255;}
-{\*\expandedcolortbl;;}
-\paperw11900\paperh16840\margl1440\margr1440\vieww11520\viewh8400\viewkind0
-\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural\partightenfactor0
+After looked at the dataset, I decided to:
 
-\f0\fs24 \cf0 #Load necessary packages & library\
-install.packages("tidyverse")\
-install.packages("janitor")\
-install.packages("lubridate")\
-library(janitor)\
-library(tidyverse)\
-library(lubridate)\
-library(dplyr)\
-library(readr)\
-\
-#import data in R studio\
-q6_2022 <- read_csv("q6_2022.csv")\
-q7_2022 <- read_csv("q7_2022.csv")\
-q8_2022 <- read_csv("q8_2022.csv")\
-q9_2022 <- read_csv("q9_2022.csv")\
-q10_2022 <- read_csv("q10_2022.csv")\
-q11_2022 <- read_csv("q11_2022.csv")\
-q12_2022 <- read_csv("q12_2022.csv")\
-q1_2023 <- read_csv("q1_2023.csv")\
-q2_2023 <- read_csv("q2_2023.csv")\
-q3_2023 <- read_csv("q3_2023.csv")\
-q4_2023 <- read_csv("q4_2023.csv")\
-q5_2023 <- read_csv("q5_2023.csv")\
-\
-#Check data sets for consistency \
-colnames(q6_2022)\
-colnames(q7_2022)\
-colnames(q8_2022)\
-colnames(q9_2022)\
-colnames(q10_2022)\
-colnames(q11_2022)\
-colnames(q12_2022)\
-colnames(q1_2023)\
-colnames(q2_2023)\
-colnames(q3_2023)\
-colnames(q4_2023)\
-colnames(q5_2023)\
-#Check structure of each dataset\
-str(q6_2022)\
-str(q7_2022)\
-str(q8_2022)\
-str(q9_2022)\
-str(q10_2022)\
-str(q11_2022)\
-str(q12_2022)\
-str(q1_2023)\
-str(q2_2023)\
-str(q3_2023)\
-str(q4_2023)\
-str(q5_2023)\
-\
-#Combine all data frames into a single data frame\
-tripdata <- bind_rows(q6_2022, q7_2022, q8_2022, q9_2022, q10_2022, q11_2022, q12_2022, q1_2023, q2_2023, q3_2023, q4_2023, q5_2023)}
+Download data and store it appropriately: The data has been successfully downloaded and securely stored both on my local computer and within Kaggle's platform.
+
+Identify how it’s organized: The organization of the data is as follows: It's formatted as a comma-delimited (.CSV) file and consists of 13 columns namely "ride_id", "rideable_type", "started_at", "ended_at", "start_station_name", "start_station_id", "end_station_name", "end_station_id", "start_lat", "start_lng", "end_lat", "end_lng", and "member_casual".
+
+Sort and filter the data: In terms of filtering and sorting, the focus of the analysis will be on the most recent data from 2022 , as this provides the most pertinent and up-to-date insights for the task at hand.
+
+Determine the credibility of the data: Regarding the credibility and reliability of the data, it is suitable for this specific case study and will allow me to adequately address the business inquiries. However, due to data privacy constraints, personally identifiable information of the riders is not available, which prevents me from identifying if multiple rides were taken by the same user. Please note that all ride ids in this dataset are unique.
+
+The dataset follows the ROCCC Analysis as described below:
+
