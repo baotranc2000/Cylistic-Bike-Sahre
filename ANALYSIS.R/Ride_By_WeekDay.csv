@@ -1,0 +1,15 @@
+"day_of_week","member_casual","rides_by_day","average_ride_length"
+"Friday","casual",258161,21.8076263778545
+"Friday","member",387036,12.0162359573788
+"Monday","casual",194960,22.8189697031872
+"Monday","member",374352,11.5660815667252
+"Saturday","casual",350943,25.441442722417
+"Saturday","member",343697,13.6837964835306
+"Sunday","casual",289531,26.1692305832534
+"Sunday","member",303812,13.6182035271811
+"Thursday","casual",233749,20.1738093710201
+"Thursday","member",442091,11.7783015638563
+"Tuesday","casual",202311,20.424323360239
+"Tuesday","member",438773,11.6867964376414
+"Wednesday","casual",218102,19.6220742282666
+"Wednesday","member",456824,11.6825720992473
