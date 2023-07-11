@@ -13,7 +13,7 @@ The main objective of this analysis is to leverage historical data and user beha
 # **Analysis Approach**
 
 The analysis will follow a structured approach comprising the following steps:
-1. Data Preprocessing: Clean and prepare the dataset for analysis, addressing missing values, outliers, and data quality issues.
+1. Data Preprocessing [Click here to view the data processing](https://github.com/baotranc2000/Cylistic-Bike-Share/blob/main/PROCESS.R) Clean and prepare the dataset for analysis, addressing missing values, outliers, and data quality issues.
 2. Exploratory Data Analysis (EDA): Conduct a thorough exploration of user behavior, examining usage patterns, trip characteristics, and subscription types.
 3. User Segmentation: Identify distinct user segments based on various attributes such as trip frequency, duration, and geographical patterns. Analyze the characteristics and preferences of each segment.
 4. Comparative Analysis and Summary statistics: Compare and calculate summary statistics about the behaviors and preferences of casual users and members, highlighting differences in trip duration, frequency, and usage patterns.
