@@ -46,3 +46,8 @@ Contributions to this project are welcome. If you have any suggestions, improvem
 **License**
 
 The project is licensed under [license](http://ride.divvybikes.com/data-license-agreement). You are free to use, modify, and distribute the code and results, following the terms of the license.
+
+# PRICING
+<img width="1282" alt="image" src="https://github.com/baotranc2000/Cylistic-Bike-Share/assets/135206055/6dfdc1e0-bb22-49f0-9f13-2e31a1561981">
+<img width="1225" alt="image" src="https://github.com/baotranc2000/Cylistic-Bike-Share/assets/135206055/c41d78b0-d15c-4111-be40-295ec4203c88">
+
