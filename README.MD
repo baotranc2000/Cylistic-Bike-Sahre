@@ -1,4 +1,5 @@
 # CYCLISTIC-BIKE-SHARE MEMBERSHIP CONVERSION ANALYSIS: ENHANCING USER ENGAGEMENT AND RETENTION
+
 This repository contains an analysis of the Cyclistic-Bike-Share company, focusing on driving decisions to convert casual users to members. The project aims to leverage data analysis and insights to provide recommendations on strategies to increase member registrations and enhance user retention.
 
 **PROJECT OVERVIEW**
@@ -23,8 +24,25 @@ The analysis will follow a structured approach comprising the following steps:
 
 The analysis will culminate in a comprehensive report summarizing the findings, insights, and recommendations derived from the analysis.The report will include visually compelling visualizations, statistical summaries, and actionable strategies to improve membership conversion rates, enhance user engagement, and drive long-term customer loyalty.
 
-## Dependencies
-
+**DEPENDENCIES**
 The project relies on the following dependencies:
-- R programming language 
+- R programming language for: data processing, exploratory data analysis, comparative analysis and summary statistics and final report.
+- Tableau for data visualization and dashboard
 
+**USAGE AND REPRODUCIBILITY**
+
+To reproduce the analysis and explore the results:
+1. Clone or download the repository to your local machine.
+2. Istall the required dependencies mentioned in the Dependencies section.
+3. Run the provided R scripts to execute the analysis
+4. Use Tableau to generate the visualizations.
+5 Modify the code or experiment with additional analysis techniques as needed.
+6. Review the generated insights and recommendations to inform decision-making processes.
+
+**Contributing**
+
+Contributions to this project are welcome. If you have any suggestions, improvements, or ideas for further enhancing the analysis, please feel free to submit a pull request or open an issue.
+
+**LICENSE**
+
+The project is licensed under [license](http://ride.divvybikes.com/data-license-agreement). You are free to use, modify, and distribute the code and results, following the terms of the license.
