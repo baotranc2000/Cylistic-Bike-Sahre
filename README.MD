@@ -13,21 +13,29 @@ The main objective of this analysis is to leverage historical data and user beha
 # **Analysis Approach**
 
 The analysis will follow a structured approach comprising the following steps:
-1. Data Preprocessing [Click here to view the data processing](https://github.com/baotranc2000/Cylistic-Bike-Share/blob/main/PROCESS.R) Clean and prepare the dataset for analysis, addressing missing values, outliers, and data quality issues.
+1. Data Preprocessing: Clean and prepare the dataset for analysis, addressing missing values, outliers, and data quality issues.
+[View data preparation](https://github.com/baotranc2000/Cylistic-Bike-Share/tree/main/PREPARE.R)
+[View the data processing](https://github.com/baotranc2000/Cylistic-Bike-Share/blob/main/PROCESS.R) 
 2. Exploratory Data Analysis (EDA): Conduct a thorough exploration of user behavior, examining usage patterns, trip characteristics, and subscription types.
+[View the data](https://github.com/baotranc2000/Cylistic-Bike-Share/tree/main/ANALYSIS.R)
 3. User Segmentation: Identify distinct user segments based on various attributes such as trip frequency, duration, and geographical patterns. Analyze the characteristics and preferences of each segment.
+[View the data](https://github.com/baotranc2000/Cylistic-Bike-Share/tree/main/ANALYSIS.R)
 4. Comparative Analysis and Summary statistics: Compare and calculate summary statistics about the behaviors and preferences of casual users and members, highlighting differences in trip duration, frequency, and usage patterns.
-5. Data Visualization [Click here to view data visualization](https://github.com/baotranc2000/Cylistic-Bike-Share/tree/main/Visualize_Tableau) : Create visually appealing and informative plots and charts to communicate key insights and findings effectively.
+[View the data](https://github.com/baotranc2000/Cylistic-Bike-Share/tree/main/ANALYSIS.R)
+5. Data Visualization: Create visually appealing and informative plots and charts to communicate key insights and findings effectively.
+[View data visualization](https://github.com/baotranc2000/Cylistic-Bike-Share/tree/main/Visualize_Tableau) 
 6. Recommendations and Strategies: Based on the analysis, provide actionable recommendations to optimize marketing campaigns, tailor user experiences, and create targeted incentives to convert casual users into loyal members.
+[View the Recommendations and Strategies](https://github.com/baotranc2000/Cylistic-Bike-Share/blob/main/FINAL_SUMAMRY/Final_summary.md)
 
 # **Results And Deliverables** 
 
 The analysis will culminate in a comprehensive report summarizing the findings, insights, and recommendations derived from the analysis.The report will include visually compelling visualizations, statistical summaries, and actionable strategies to improve membership conversion rates, enhance user engagement, and drive long-term customer loyalty.
+[View the final report](https://github.com/baotranc2000/Cylistic-Bike-Share/tree/main/Analysis_Report.R)
 
 # **Dependencies**
 The project relies on the following dependencies:
 - R programming language for: data processing, exploratory data analysis, comparative analysis and summary statistics and final report.
-- Tableau for data visualization and dashboard
+- Tableau for data visualization and dashboard 
 
 # **Usage And Reproducibility**
 
