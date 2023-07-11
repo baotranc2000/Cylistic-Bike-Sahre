@@ -1,4 +1,4 @@
-Before we start analyzing, it is necessary to make sure data is clean, free of error and in the right format
+#Before we start analyzing, it is necessary to make sure data is clean, free of error and in the right format
 #WRANGLE DATA, CLEAN UP AND ADD DATA TO PREPARE FOR ANALYSIS
 ##Check the combined data frame
 #Following code chunks
