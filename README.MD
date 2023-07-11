@@ -17,7 +17,6 @@ The analysis will follow a structured approach comprising the following steps:
 [View data preparation](https://github.com/baotranc2000/Cylistic-Bike-Share/tree/main/PREPARE.R)
 
 [View the data processing](https://github.com/baotranc2000/Cylistic-Bike-Share/blob/main/RROCESS.R/process.r) 
-
 2. Exploratory Data Analysis (EDA): Conduct a thorough exploration of user behavior, examining usage patterns, trip characteristics, and subscription types.
 [View the data](https://github.com/baotranc2000/Cylistic-Bike-Share/tree/main/ANALYSIS.R)
 3. User Segmentation: Identify distinct user segments based on various attributes such as trip frequency, duration, and geographical patterns. Analyze the characteristics and preferences of each segment.
