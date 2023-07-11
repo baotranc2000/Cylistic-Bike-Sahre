@@ -17,7 +17,7 @@ The analysis will follow a structured approach comprising the following steps:
 2. Exploratory Data Analysis (EDA): Conduct a thorough exploration of user behavior, examining usage patterns, trip characteristics, and subscription types.
 3. User Segmentation: Identify distinct user segments based on various attributes such as trip frequency, duration, and geographical patterns. Analyze the characteristics and preferences of each segment.
 4. Comparative Analysis and Summary statistics: Compare and calculate summary statistics about the behaviors and preferences of casual users and members, highlighting differences in trip duration, frequency, and usage patterns.
-5. Data Visualization: Create visually appealing and informative plots and charts to communicate key insights and findings effectively.
+5. Data Visualization [Click here to view data visualization](https://github.com/baotranc2000/Cylistic-Bike-Share/tree/main/Visualize_Tableau) : Create visually appealing and informative plots and charts to communicate key insights and findings effectively.
 6. Recommendations and Strategies: Based on the analysis, provide actionable recommendations to optimize marketing campaigns, tailor user experiences, and create targeted incentives to convert casual users into loyal members.
 
 # **Results And Deliverables** 
